@@ -24,7 +24,6 @@
 
 ## 🚀 Projects
 - [MiniBankSystem-Cpp](https://github.com/m-attiadev/MiniBankSystem-Cpp) – Banking system with file handling in C++  
-- [Math Quiz Game](https://github.com/m-attiadev/Math-Quiz-Game) – Console quiz app in C++  
-- [Al-Taqwa Web](https://github.com/m-attiadev/al-taqwa-web) – Web project with CSS  
+- [Math Quiz Game](https://github.com/m-attiadev/Math-Quiz-Game) – Console quiz app in C++   
 
 ---
