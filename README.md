@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohammed Attia 👋
 
-<!--
-**m-attiadev/m-attiadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+---
+
+## 🛠 Skills
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-attiadev&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Projects
+- [MiniBankSystem-Cpp](https://github.com/m-attiadev/MiniBankSystem-Cpp) – Banking system with file handling in C++  
+- [Math Quiz Game](https://github.com/m-attiadev/Math-Quiz-Game) – Console quiz app in C++  
+- [Al-Taqwa Web](https://github.com/m-attiadev/al-taqwa-web) – Web project with CSS  
+
+---
