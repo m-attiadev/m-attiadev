@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Attia 👋
 
-🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver  
+🎓 Software Engineering Student
 
 ---
 
